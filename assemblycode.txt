@@ -1,0 +1,16 @@
+0000 DDDD - BIOSA - First loading instruction
+0001 DDDD - BIOSB - Second loading instruction
+0010 DDDD - BIOSC - Third loading instruction
+0011 DDDD - LDA - Load A register with RAM address specified
+0100 DDDD - ADD - Load B register with RAM address specified, add to A register, and write sum to A register
+0101 DDDD - OUT - Output A register to display
+0110 DDDD - JMP - Jump to instruction specified
+0111 DDDD - WRI - Write A register to RAM address specified
+1000 DDDD - LDIR - Load the If routing register with the RAM address specified, truth routing first
+1001 DDDD - LDIC - Load the If comparison register with the RAM address specified
+1010 DDDD - WRIB - Write Breg to RAM address
+1011 DDDD - IFO - Compare the RAM address in the if circuit, If circuit out, jump to address given by circuit
+1100 DDDD - 
+1101 DDDD - 
+1110 DDDD - 
+1111 DDDD - HALT

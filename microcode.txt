@@ -1,0 +1,27 @@
+IO - 0 Instruction register out
+II - 1 Instruction register in
+RO - 2 RAM out
+RI - 3 RAM in
+MO - 4 MAR out
+MI - 5 MAR in
+SU - 6 Subtract
+EO - 7 Sum out
+BO - 8 B register out
+BI - 9 register in
+AO - 10 A register out
+AI - 11 A register in
+OI - 12 Output register in
+CO - 13 Counter out
+JU - 14 Jump
+HA - 15 Halt
+CE - 16 Counter enable
+HO - 17 HDD Out
+SJ - 18 Step jump
+LCE - 19 Load counter enable
+LCO - 20 Load counter out
+SCD - 21 Step counter disable
+JUI - 22 Jump register in
+IFR - 23 If routing register in
+IFC - 24 If comparison register in
+IFD - 25 If candidate register in
+IFO - 26 If routing out
