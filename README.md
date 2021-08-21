@@ -9,7 +9,7 @@ Before running a program you must ensure that the ROM chips are loaded correctly
 At the main circuit of bb reset the computer by pressing ctrl+r, then right-click on the HDD and select Load Image, then load the bbInfiniteAdd file and press ctrl+k to start the simulation. bb should now begin to add infinitely upwards by one, outputting the results of the computation onto the output display. Manipulate memory address 15 in the HDD in order to specify what integer to count by. You must reset and restart bb in order to reload the HDD with the new integer to count by. Logisim ROM and RAM circuits use hex.
 
 # Authors
-Austin Moss
+NerdingAlaska
 
 # Acknowledgments 
 Ben Eater - https://eater.net/
