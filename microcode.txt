@@ -1,87 +1,64 @@
-#CL0
-MAR0I - 0
-MAR0O - 1
-MAR1I - 2
-MAR1O - 3
-CARI - 4
-CARO - 5
-IRI - 6
-IRO - 7
-ALURE - 8
-ALUS - 9
-SC0E - 10
-SC1E - 11
-SC1O - 12
-PC0I - 13
-PC1I - 14
-PC0O - 15
-PC0O - 16
-PCINC - 17
-MARINC - 18
-CARINC - 19
-ARGI - 20
-ARGO - 21
-
-#CL1
-GROI - 32
-GR1I - 33
-GR2I - 34
-GR3I - 35
-GR4I - 36
-GR5I - 37
-GR6I - 38
-GR7I - 39
-GR0O - 40
-GR1O - 41
-GR2O - 42
-GR3O - 43
-GR4O - 44
-GR5O - 45
-GR6O - 46
-GR7O - 47
-GR0INC - 48
-GR1INC - 49
-GR2INC - 50
-GR3INC - 51
-GR4INC - 52
-GR5INC - 53
-GR6INC - 54
-GR7INC - 55
-FLI - 56
-FLO - 57
-IOI - 58
-IOO - 59
-IOAS - 60
-IOAINC - 61
-IOAO - 62
-IOAI - 63
-
-#CL2
-FL0S - 64
-FL1S - 65
-FL2S - 66
-FL3S - 67
-FL4S - 68
-FL5S - 69
-FL6S - 70
-FL7S - 71
-FL0C - 72
-FL1C - 73
-FL2C - 74
-FL3C - 75
-FL4C - 76
-FL5C - 77
-FL6C - 78
-FL7C - 79
-
-#CL3
-CDISR  - 96
-CDIST - 97
-RDISR - 98
-RDIST - 99
-MDISR - 100
-MDIST - 101
-DDISR - 102
-DDIST - 103
-BDISR - 104
-BDIST - 105
+IO - 0 Instruction register out
+II - 1 Instruction register in
+RO - 2 RAM out
+RI - 3 RAM in
+MO - 4 MAR out
+MI - 5 MAR in
+SU - 6 Subtract
+EO - 7 Sum out
+BO - 8 B register out
+BI - 9 register in
+AO - 10 A register out
+AI - 11 A register in
+OI - 12 Output register in
+CO - 13 Counter out
+JU - 14 Jump
+HA - 15 Halt
+CE - 16 Counter enable
+HO - 17 HDD Out
+SJ - 18 Step jump
+LCE - 19 Load counter enable
+LCO - 20 Load counter out
+SCD - 21 Step counter disable
+JUI - 22 Jump register in
+IFR - 23 If routing register in
+IFC - 24 If comparison register in
+IFD - 25 If candidate register in
+IFO - 26 If routing out
+OFI - 27 Overflow address register in
+OFO - 28 Overflow register out
+NO - 29
+NO - 30
+NO - 31
+NO - 32
+NO - 33
+NO - 34
+NO - 35
+NO - 36
+NO - 37
+NO - 38
+NO - 39
+NO - 40
+NO - 41
+NO - 42
+NO - 43
+NO - 44
+NO - 45
+NO - 46
+NO - 47
+NO - 48
+NO - 49
+NO - 50
+NO - 51
+NO - 52
+NO - 53
+NO - 54
+NO - 55
+NO - 56
+NO - 57
+NO - 58
+NO - 59
+NO - 60
+NO - 61
+NO - 62
+NO - 63
